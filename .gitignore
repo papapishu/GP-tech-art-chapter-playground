@@ -71,4 +71,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Transient (generated) files    Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db    Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta    Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers    Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+# Transient (generated) files  
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db   
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta 
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers 
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
